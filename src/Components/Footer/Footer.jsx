@@ -1,7 +1,7 @@
 import React from "react";
 import {
-  AiFillInstagram,
   AiFillFacebook,
+  AiFillInstagram,
   AiFillTwitterCircle,
 } from "react-icons/ai";
 

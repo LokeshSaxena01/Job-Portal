@@ -1,6 +1,6 @@
 import React from "react";
-import { navLinks } from "../../Constants";
 import { MdLightMode } from "react-icons/md";
+import { navLinks } from "../../Constants";
 
 const Header = () => {
   const toggleTheme = () =>{

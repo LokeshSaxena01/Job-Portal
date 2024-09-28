@@ -1,11 +1,11 @@
 import React from "react";
 import {
-  AiOutlineSearch,
   AiFillCloseCircle,
   AiOutlineHome,
+  AiOutlineSearch,
 } from "react-icons/ai";
 import { GoLocation } from "react-icons/go";
-import { sortby, level, type } from "../../Constants";
+import { level, sortby, type } from "../../Constants";
 
 const Search = () => {
   return (
